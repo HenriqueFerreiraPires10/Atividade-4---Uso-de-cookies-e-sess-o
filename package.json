@@ -1,0 +1,26 @@
+{
+  "name": "atividade-4-cookies-sessao",
+  "version": "1.0.0",
+  "description": "Aplicação com login por sessão, cadastro de produtos e cookies",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.22.1",
+    "express-session": "^1.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueFerreiraPires10/Atividade-4---Uso-de-cookies-e-sess-o.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriqueFerreiraPires10/Atividade-4---Uso-de-cookies-e-sess-o/issues"
+  },
+  "homepage": "https://github.com/HenriqueFerreiraPires10/Atividade-4---Uso-de-cookies-e-sess-o#readme"
+}
